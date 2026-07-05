@@ -3,7 +3,7 @@
 This repository contains my solutions and notes while practicing
 Data Structures and Algorithms using C++ as part of my placement preparation journey.
 
-## Topics Covered
+## Topics Covered (Some topics yet to be covered)
 - Basics
 - Arrays
 - Hashing
@@ -17,6 +17,6 @@ Data Structures and Algorithms using C++ as part of my placement preparation jou
 - Graphs
 - Dynamic Programming
 - Bit Manipulation
-(Some topics yet to be covered)
+
 
 > Never Stop Learning
